@@ -3,7 +3,7 @@
 
 - 📫 How to reach me : 
 - Email : **abdoelziady00@gmail.com**
-- Portofilo : **https://abdoelziady.github.io/My-Portofilo/?fbclid=IwAR0gqsSKnFDgRpzv_MW7KAhzCkrU6iIkmhDnVETHukfq7EFoYqNFOl9XPds**
+- Portofilo : **https://abdoelziady.github.io/My-Portofilo/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
